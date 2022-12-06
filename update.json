@@ -1,10 +1,10 @@
 [
  { "title": "update",
 
- "message": "Are You Sure Do You exit",
+ "message": "Are You Sure Do You Update",
 
  "apkurl": "www.google.com",
 
- "versioncode": "1.0" }
+ "update": "true" }
 
  ]

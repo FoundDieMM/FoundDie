@@ -1,29 +1,4 @@
 [
-  {
-    "type": "Myanmar",
-    "image": "https://add.pics/images/2022/12/02/555651.png",
-    "jsonlink": "https://github.com/FoundDieMM/FoundDie/raw/main/MyanmarMoive.json"
-  },
-  {
-    "type": "China",
-    "image": "https://add.pics/images/2022/12/02/5111624.png",
-    "jsonlink": "https://github.com/FoundDieMM/FoundDie/raw/main/MyanmarMoive.json"
-  },
-  {
-    "type": "Japan",
-    "image": "https://add.pics/images/2022/12/02/555646.png",
-    "jsonlink": "https://github.com/FoundDieMM/FoundDie/raw/main/MyanmarMoive.json"
-  },
-  {
-    "type": "Yoon Yoon",
-    "image": "https://add.pics/images/2022/12/02/206758.png",
-    "jsonlink": "https://github.com/FoundDieMM/FoundDie/raw/main/YoonYoon.json"
-  },
-  {
-  "type": "မြမြ",
-  "image": "https://add.pics/images/2022/12/05/IMG_20220724_153506_980.jpeg",
-  "jsonlink": "https://github.com/FoundDieMM/FoundDie/raw/main/MyaMya.json"
-},
 {
   "type": "Thin Zar Wint Kyaw",
   "image": "https://add.pics/images/2022/12/07/IMG_20221206_191429_221.jpeg",

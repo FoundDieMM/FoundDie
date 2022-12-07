@@ -25,12 +25,12 @@
   "jsonlink": "https://github.com/FoundDieMM/FoundDie/raw/main/MyaMya.json"
 },
 {
-  "title": "Thin Zar Wint Kyaw",
+  "type": "Thin Zar Wint Kyaw",
   "image": "https://add.pics/images/2022/12/07/IMG_20221206_191429_221.jpeg",
   "jsonlink": "https://github.com/FoundDieMM/FoundDie/raw/main/MyaMya.json"
 },
 {
-  "title": "Khin Wint Wah",
+  "type": "Khin Wint Wah",
   "image": "https://add.pics/images/2022/12/07/IMG_20221206_191429_221.jpeg",
   "jsonlink": "https://github.com/FoundDieMM/FoundDie/raw/main/KhinWintWah.json"
 }
